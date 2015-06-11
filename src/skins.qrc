@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/default">
+        <file>Skins/Brushed/inactive_left_top.png</file>
+        <file>Skins/Brushed/inactive_right_top.png</file>
+        <file>Skins/Brushed/inactive_left_bottom.png</file>
+        <file>Skins/Brushed/left_top.png</file>
+        <file>Skins/Brushed/inactive_right_bottom.png</file>
+        <file>Skins/Brushed/right_bottom.png</file>
+        <file>Skins/Brushed/left_bottom.png</file>
+        <file>Skins/Brushed/right_top.png</file>
+        <file>Skins/Brushed/inactive_bottom.png</file>
+        <file>Skins/Brushed/bottom.png</file>
+        <file>Skins/Brushed/inactive_left_middle.png</file>
+        <file>Skins/Brushed/inactive_right_middle.png</file>
+        <file>Skins/Brushed/top.png</file>
+        <file>Skins/Brushed/left_middle.png</file>
+        <file>Skins/Brushed/right_middle.png</file>
+        <file>Skins/Brushed/inactive_top.png</file>
+        <file>Skins/Brushed/left.png</file>
+        <file>Skins/Brushed/right.png</file>
+        <file>Skins/Brushed/panel_bg.png</file>
+        <file>Skins/Brushed/bg.png</file>
+        <file>Skins/Brushed/logo.png</file>
+        <file>Skins/Brushed/question.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>default.css</file>
+    </qresource>
+</RCC>
